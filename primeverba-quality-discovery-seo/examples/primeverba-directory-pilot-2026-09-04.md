@@ -1,0 +1,44 @@
+# PrimeVerba directory pilot — 2026-09-04
+
+## Task card
+
+- Product: PrimeVerba, an AI-assisted spelling and grammar correction tool for Windows and Android.
+- Audience: people who write frequently, including multilingual writers and people who want less friction when proofreading.
+- Canonical site: https://primeverba.app/
+- Goal: find genuine product-discovery opportunities; not link volume or search-engine manipulation.
+- Exclusions: paid placement, reciprocal links, link selling, invented claims, and bulk submissions.
+
+## Listing copy (humanized, ready to review)
+
+**Name:** PrimeVerba
+
+**One-line description:** Context-aware spelling and grammar suggestions without leaving the app you are writing in.
+
+**Short description:** PrimeVerba helps you review spelling and grammar in the places where you already write. On Windows, select text in a compatible app and press Ctrl+C three times to request a correction. It is designed to keep the original language, meaning, tone, and style intact, but important text should still be reviewed before sending.
+
+**Category:** Writing assistant / grammar checker
+
+**Platforms:** Windows 10+ and Android 8.0+ (release verification required before any public listing).
+
+**Suggested URL:** https://primeverba.app/
+
+## Read-only quality review
+
+| Candidate | Decision | Evidence and reason | Next action |
+|---|---|---|---|
+| AISO Tools | Exclude | Its submission page explicitly markets a permanent dofollow link and paid verification/featured placement. That conflicts with a quality-first, non-link-selling route. Evidence: https://aisotools.com/submit | Do not submit. |
+| Product Hunt | Hold for launch preparation | Established discovery platform and potentially relevant audience. The launch page was not readable from the research client, so current terms and launch prerequisites require manual review. A Product Hunt launch is a public publication, not a routine directory submission. | Prepare assets and launch copy; request site-specific approval before scheduling or publishing. |
+| AlternativeTo | Hold for manual qualification | Relevant because PrimeVerba is desktop/mobile software and its audience looks for alternatives. The site was protected from the research client, so contribution route and current rules are unverified. | Manually inspect the contribution route and whether a truthful listing fits; request site-specific approval before creating an account or entry. |
+
+## Claim ledger
+
+| Claim | Status | Basis |
+|---|---|---|
+| Windows triple-Ctrl+C correction workflow | Verified | Product implementation evidence. |
+| Compatible Windows apps | Qualified | Product documentation deliberately avoids a universal-compatibility claim. |
+| Original language, meaning, tone and style are retained | Qualified | Product instructions and website wording use “designed to”; output needs review. |
+| Windows 10+ and Android 8.0+ | Pending public-listing release check | Current website facts require release-device QA before publication. |
+
+## Approval boundary
+
+No account, form, upload, agreement, payment, listing, launch, post, or outreach action was taken in this pilot. Each requires the operator's explicit approval for the named site and action immediately before execution.
